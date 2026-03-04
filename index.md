@@ -1,40 +1,30 @@
-# An Ode to Forgiveness
+# GitHub - The Internet's Healthy "Hub"
 
-**They have no idea**<br>
-**They never do**
+> Thank Goodness there is still a<br>
+> "**good hub**"<br>
+> in this wild, scary internet age.
 
-*Seek merciful forgiveness*
+![github cat](./images/github%20cat.png)
 
-As I always said:
-
-> A single mistake is to be corrected<br>
-> The second you do is to be forgiven<br>
-> Do it three times, you mean it.
+Have you ever seen this cat anywhere? No? Too bad for you, because this cat is the sign of a better-and-greater world of collaborating and programming and coding and creating and- okay that's too much. Anyway,
 
 ```javascript
-console.log("you are not supposed to do it all over again.");
+Github is proprietary developer platform that allows developers to create, store, manage, and share their code.
 ```
-
----
 
 ```javascript
-console.log("they hate us");
-console.log("they hate us");
-console.log("they hate us");
+and you better not ask what that "proprietary" thing is.
 ```
 
-[find out the truth here](https://www.thetruth.com/)
+I think it's time to cut the long introduction off and get right to the *thing*.
 
-[repent here](./repent.md)
+[Come here if you want to know more](./apa-itu-github.md)
 
-your sins :
+[and come here for some not-really-useful informations!](./useless-info.md)
 
-* you should've realized
-* you should've realized
-* you should've realized
+Remember what they always said :
 
-last time you repent :
+> **easy work**<br>
+> comes from an **easy workplace**
 
-1. nothing changed
-2. nothing changed
-3. nothing changed
+> source : trust me bro
