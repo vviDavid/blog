@@ -18,9 +18,9 @@ and you better not ask what that "proprietary" thing is.
 
 I think it's time to cut the long introduction off and get right to the *thing*.
 
-[Come here if you want to know more](./apa-itu-github.md)
+[Come here if you want to know more](./1-apaItuGithub/apa-itu-github.md)
 
-[and come here for some not-really-useful informations!](./useless-info.md)
+[and come here for some not-really-useful informations!](./1-apaItuGithub/useless-info.md)
 
 Remember what they always said :
 
