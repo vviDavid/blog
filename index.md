@@ -1,30 +1,31 @@
-# GitHub - The Internet's Healthy "Hub"
+# Ruang Dapid
 
-> Thank Goodness there is still a<br>
-> "**good hub**"<br>
-> in this wild, scary internet age.
+Selamat datang di *Ruang Dapid* !
 
-![github cat](./images/github%20cat.png)
+Di sini kamu akan memperoleh berbagai ilmu dan informasi menarik dalam dunia komputer! Khususnya dalam hal pemrograman menggunakan bahasa `Javascript`. Percayalah segalanya akan menjadi menarik ketika kamu sudah memulainya, kamu hanya perlu sedikit dorongan dan terkadang juga sedikit tarikan. Maka datanglah kemari, dorongan atau tarikan- semua itu ada di tangan kamu yang ingin bergerak atau tetap di tempat. Selamat berpetualang! ^ ^
 
-Have you ever seen this cat anywhere? No? Too bad for you, because this cat is the sign of a better-and-greater world of collaborating and programming and coding and creating and- okay that's too much. Anyway,
+> Semoga kamu nyaman di sini!
 
-```javascript
-Github is proprietary developer platform that allows developers to create, store, manage, and share their code.
+```Javascript
+selamat belajar.
 ```
 
-```javascript
-and you better not ask what that "proprietary" thing is.
-```
+`semoga betah~`
 
-I think it's time to cut the long introduction off and get right to the *thing*.
+Jika kamu bertanya mengapa ada tiga ucapan di atas, kamu bisa mencari tahu di [sini](./profil.md). Jika kamu sudah tahu ataupun memilih untuk tidak mengetahuinya, tandanya kamu sudah siap untuk belajar dan menerima informasi. Nikmati waktumu di *Ruang Dapid* ~
 
-[Come here if you want to know more](./1-apaItuGithub/apa-itu-github.md)
+---
 
-[and come here for some not-really-useful informations!](./1-apaItuGithub/useless-info.md)
+### GitHub - Dunia **Semu** dengan Ruang Kolaborasi yang **Nyata**
 
-Remember what they always said :
+Kemajuan teknologi menciptakan dunia-dunia baru yang cenderung semu namun justru menyediakan ruang komunikasi dan kolaborasi antar-personal yang jauh lebih nyata! Salah satu dunia tersebut dikenal sebagai GitHub. [Cari tahu lebih banyak](./1-apa-itu-github.md) !
 
-> **easy work**<br>
-> comes from an **easy workplace**
+---
 
-> source : trust me bro
+### Lelah dengan Metode Pengelolaan Data Konvensional? Bagaimana jika Kamu Menciptakan **Pengelola Data**mu Sendiri?
+
+Pernahkah kamu muak mengelola setumpukan data yang terlalu banyak memakan waktu kamu yang berharga? Kalau iya, kamu tidak sendiri! Ribuan bahkan jutaan orang di luar sana juga pasti merasakan hal yang sama. Namun ketahuilah, kamu bisa membebaskan dirimu dari lingkaran tidak produktif itu dengan menciptakan pengelola data yang lebih praktis. [Mulai buat pengelola data milikmu sendiri](./2-cara-membuat-pengelola-data-sendiri) !
+
+---
+
+#### NANTIKAN LEBIH BANYAK HAL MENARIK DI SINI !
