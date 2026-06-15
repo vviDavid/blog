@@ -108,7 +108,7 @@ Satu blok fungsi ini pada dasarnya adalah perintah untuk menyimpan data mahasisw
 
 ### VIEW - create.hbs
 
-```hbs
+```handlebars
 {{#each mataKuliah}}
     <option value="{{id}}" {{isSelected id ../formData.mata_kuliah_id}}>
         {{nama}} ({{kode}})
@@ -118,7 +118,7 @@ Satu blok fungsi ini pada dasarnya adalah perintah untuk menyimpan data mahasisw
 
 Penggalan kode ini merupakan perintah untuk menampilkan option berdasarkan data yang ada pada ```mataKuliah``` dan menandai "selected" pada data yang memenuhi syarat fungsi ```isSelected``` (selengkapnya tentang *Helper Function* ini akan dipaparkan pada bagian berikutnya).
 
-```hbs
+```handlebars
 {{#each mahasiswa}}
     <div class="form-check mahasiswa-item" data-angkatan="{{angkatan}}" data-program-studi="{{program_studi}}">
         <input class="form-check-input" type="checkbox" id="mahasiswa_{{id}}" name="peserta_mahasiswa" value="{{id}}"
@@ -132,7 +132,7 @@ Penggalan kode ini merupakan perintah untuk menampilkan option berdasarkan data 
 
 Penggalan kode tersebut akan menampilkan daftar mahasiswa yang dapat dipilih disertai dengan mekanisme pengecekan Checkbox bernama ```isChecked``` yang merupakan salah satu *Helper Function*.
 
-```hbs
+```handlebars
 <!-- Filter by Angkatan and Program Studi -->
     <div class="row mb-2">
       <div class="col-md-6">
