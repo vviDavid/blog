@@ -24,4 +24,10 @@ Sebuah web absensi tidak akan berfungsi dengan baik tanpa adanya Database untuk 
 
 ---
 
+### Analisis Fitur "Kelas" dan "Peserta Kelas" pada Web Absensi
+
+Kita akan menelusuri fitur "Kelas" dan "Peserta Kelas" pada Web Absensi dengan lebih mendalam, apa saja yang terjadi di dalamnya dan bagaimana semuanya bekerja?  [Pelajari selengkapnya di sini](./4-review-fitur.md)
+
+---
+
 #### NANTIKAN LEBIH BANYAK HAL MENARIK DI SINI !
